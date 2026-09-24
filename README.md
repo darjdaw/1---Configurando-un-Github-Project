@@ -10,3 +10,6 @@ EVs: [#] [Stat] / [#] [Stat] / ...
 - [Move 2]
 - [Move 3]
 - [Move 4]
+
+git fetch origin
+git checkout 5-parser-de-teamsheets
